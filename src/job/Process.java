@@ -2,7 +2,7 @@ package job;
 //deneme
 import java.util.Objects;
 import java.util.concurrent.atomic.AtomicInteger;
-
+//bir seyler eklendi
 public class Process {
     private final static AtomicInteger pidSequencer = new AtomicInteger(0);
 
